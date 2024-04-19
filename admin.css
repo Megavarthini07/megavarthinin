@@ -1,0 +1,66 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+
+.header
+{
+  
+    background-color: aquamarine;
+    line-height:70px;
+    padding-left:30px;
+}
+.dash
+{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+}
+.logout
+{
+    float:right;
+    padding-right: 40px;
+    text-align: center;
+}
+ul
+{
+  background-color: rgb(6, 69, 48);
+  width:16%;
+  height:100%;
+  position:fixed;
+  padding-top:5%;
+  text-align: center;
+}
+ul li
+{
+    list-style:none;
+    padding-bottom:30px;
+    font-size: 15px;
+}
+ul li a
+{
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul li a:hover
+{
+  color: skyblue;
+}
+.content
+{
+    margin-left:20%;
+    margin-top:5%;
+}
+.insert_deg
+{
+    text-align: left;
+    
+}
+.col-mod-3
+{
+    width:16%;
+    height:100%;
+}
