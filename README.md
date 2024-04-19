@@ -1,0 +1,2 @@
+# student performance monitoring system website has two logins . one for subject faculty and another for class advisor.  Faculty can add student mark and view mark details and also they can view remedial students list and update attendance.
+# advisor can add , view and update student details and add students for remedial class who got below 50 marks and also view remedial attendance for students which is viewed by subject faculty.
